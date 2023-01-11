@@ -13,7 +13,7 @@ variable "nodejs_project_repository_name" {
 }
 variable "nodejs_project_repository_branch" {
   description = "Nodejs Project Repository branch to connect to"
-  default     = "master"
+  default     = "main"
 }
 
 variable "python_project_repository_name" {
@@ -23,7 +23,7 @@ variable "python_project_repository_name" {
 
 variable "python_project_repository_branch" {
   description = "Python Project Repository branch to connect to"
-  default     = "master"
+  default     = "main"
 }
 
 variable "golang_project_repository_name" {
@@ -32,7 +32,7 @@ variable "golang_project_repository_name" {
 }
 variable "golang_project_repository_branch" {
   description = "Python Project Repository branch to connect to"
-  default     = "master"
+  default     = "main"
 }
 
 variable "artifacts_bucket_name" {
