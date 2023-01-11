@@ -1,4 +1,4 @@
-# Learn With Sandip
+# Learn With Sandip!
 
 ## Microservices CI/CD With Terraform, AWS CodePipeline + AWS CodeCommit + AWS CodeBuild + AWS ECS
 
@@ -12,7 +12,8 @@ This project help you set up end to end CI/CD With AWS CI/CD Tools for your Amaz
 
 [Watch FULL FREE Video Tutorial here](https://www.youtube.com/watch?v=CjjSBWMwOzA)
 
- [Sandip Das]: <https://www.linkedin.com/in/sandip-das-developer>
+[sandip das]: https://www.linkedin.com/in/sandip-das-developer
+
 This Project Designed and developed by [Sandip Das]
 
 ## Tech
@@ -21,7 +22,7 @@ This project uses many open source and few propertory projects to work properly:
 
 - [node.js](https://nodejs.org/en/about/) - evented I/O for the backend
 - [Python](https://www.python.org/) - Python is a programming language that lets you work quickly
-and integrate systems more effectively.
+  and integrate systems more effectively.
 - [Go Lang](https://go.dev/) - Go is an open source programming language supported by Google
 - [Terraform](https://www.terraform.io/) - Terraform is an open-source infrastructure as code software tool that provides a consistent CLI workflow to manage hundreds of cloud services. Terraform codifies cloud APIs into declarative configuration files.
 - [AWS CodePipeline](https://aws.amazon.com/codepipeline/) - AWS CodePipeline is a fully managed continuous delivery service that helps you automate your release pipelines for fast and reliable application and infrastructure updates. CodePipeline automates the build, test, and deploy phases of your release process every time there is a code change, based on the release model you define.
@@ -31,7 +32,7 @@ and integrate systems more effectively.
 
 ## Installation
 
-[Node.js Installation](https://nodejs.org/en/download/) 
+[Node.js Installation](https://nodejs.org/en/download/)
 
 [Python Installation](https://www.python.org/downloads/)
 
@@ -40,7 +41,6 @@ and integrate systems more effectively.
 [Docker Installation](https://docs.docker.com/engine/install/)
 
 [Terraform Installation](https://learn.hashicorp.com/tutorials/terraform/install-cli)
-
 
 ## Microservice Manual Setup instuctuctions
 
